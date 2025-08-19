@@ -42,6 +42,3 @@ This project is a Django-based web application for generating professional CVs (
 ## Usage
 - Visit `http://127.0.0.1:8000/` in your browser.
 - Register or log in to create and download your CV.
-
-## License
-This project is licensed under the MIT License.
